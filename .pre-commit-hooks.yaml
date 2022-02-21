@@ -1,0 +1,6 @@
+- id: link-checker
+  name: link-checker
+  entry: checklink
+  description: W3C Link Checker
+  language: perl
+  types: [markdown, html]
